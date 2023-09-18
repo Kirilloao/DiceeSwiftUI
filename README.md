@@ -5,5 +5,5 @@
 2. **Lesson**: Section 17
 
 3. **SwiftUI**
-  
-   ![ezgif com-video-to-gif](https://github.com/Kirilloao/DiceeSwiftUI/assets/106522858/3787b0dd-da36-4293-b505-ff0dd72508f6)
+   
+![ezgif com-video-to-gif](https://github.com/Kirilloao/DiceeSwiftUI/assets/106522858/e9fb1780-f469-4183-a835-e41fc233755d)
